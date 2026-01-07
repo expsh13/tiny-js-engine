@@ -1,0 +1,32 @@
+# Cabal build artifacts
+dist/
+dist-newstyle/
+cabal-dev/
+.cabal-sandbox/
+cabal.sandbox.config
+
+# Compiled files
+*.hi
+*.o
+*.exe
+*.dyn_hi
+*.dyn_o
+
+# GHCi files
+.ghci
+.haskeline_history
+
+# IDE files
+.vscode/
+.idea/
+*.swp
+*.swo
+*~
+.DS_Store
+
+# Test coverage
+.hpc/
+*.tix
+
+# Other
+*.lock

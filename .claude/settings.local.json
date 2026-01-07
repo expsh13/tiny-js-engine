@@ -1,0 +1,10 @@
+{
+  "permissions": {
+    "allow": [
+      "WebFetch(domain:craftinginterpreters.com)",
+      "WebSearch",
+      "Bash(tree:*)"
+    ]
+  },
+  "outputStyle": "Learning"
+}

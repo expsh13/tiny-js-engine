@@ -60,7 +60,7 @@ common warnings
 library
     import:           warnings
     exposed-modules:  Types
-                    -- , Lexer
+                    , Lexer
                     -- , Parser
                     -- , Evaluator
     hs-source-dirs:   src
